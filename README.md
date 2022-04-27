@@ -10,7 +10,7 @@ Myself project - Started on <26/04/2022>
 
 Working on
 -----------
-
+* Update profile
 
 # Version
 
