@@ -4,9 +4,9 @@ Myself project - Started on <26/04/2022>
 
 # Command to add remote 
 
-* git remote add origin https://github.com/AlexTTang/myself.git
+* git remote add origin https://github.com/AlexTTang/alexttang.github.io.git
 * git push -u origin master
-* git pull https://github.com/AlexTTang/myself.git
+* git pull https://github.com/AlexTTang/alexttang.github.io.git
 
 Working on
 -----------
