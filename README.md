@@ -7,7 +7,7 @@ Myself project - Started on <26/04/2022>
 * git push -u origin master
 * git pull https://github.com/AlexTTang/alexttang.github.io
 
-#Working on
+# Working on
 * Update profile
 
 # Version
@@ -18,6 +18,6 @@ Myself project - Started on <26/04/2022>
 # Things to note on release
 * Nothing
 
-#Link
-*https://alexttang.github.io/
+# Link
+* https://alexttang.github.io/
 
